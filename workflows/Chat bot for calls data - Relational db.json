@@ -41,7 +41,13 @@
     },
     "Anthropic Chat Model1": {
       "ai_languageModel": [
-        []
+        [
+          {
+            "node": "RAG AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
       ]
     },
     "RAG AI Agent": {
@@ -52,24 +58,12 @@
     },
     "Calculate Records Tool": {
       "ai_tool": [
-        [
-          {
-            "node": "RAG AI Agent",
-            "type": "ai_tool",
-            "index": 0
-          }
-        ]
+        []
       ]
     },
     "Google Gemini Chat Model": {
       "ai_languageModel": [
-        [
-          {
-            "node": "RAG AI Agent",
-            "type": "ai_languageModel",
-            "index": 0
-          }
-        ]
+        []
       ]
     }
   },
@@ -126,7 +120,7 @@
       "typeVersion": 1,
       "position": [
         -200,
-        320
+        280
       ],
       "credentials": {
         "openAiApi": {
@@ -194,8 +188,8 @@
       "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
       "typeVersion": 1.2,
       "position": [
-        140,
-        320
+        80,
+        200
       ],
       "id": "dcf0fe8b-c357-47ab-b3dc-ea862bf58ecd",
       "name": "Anthropic Chat Model1",
@@ -265,8 +259,8 @@
       "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
       "typeVersion": 1,
       "position": [
-        0,
-        320
+        -40,
+        280
       ],
       "id": "c34d28ee-96d9-41ed-9bfb-842bc0a4ac44",
       "name": "Google Gemini Chat Model",
@@ -287,6 +281,6 @@
   "staticData": null,
   "tags": [],
   "triggerCount": 2,
-  "updatedAt": "2025-01-06T01:54:43.327Z",
-  "versionId": "9a9d2455-34be-46cc-acb8-afb26945f83c"
+  "updatedAt": "2025-01-06T16:38:02.711Z",
+  "versionId": "ec7e62f4-6111-46a7-9588-492583a1610c"
 }
