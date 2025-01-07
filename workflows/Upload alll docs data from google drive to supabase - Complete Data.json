@@ -378,8 +378,8 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        -100,
-        120
+        -140,
+        140
       ]
     },
     {
@@ -630,7 +630,7 @@
       "typeVersion": 2.2,
       "position": [
         1820,
-        700
+        460
       ],
       "id": "52d6e997-c979-4182-a82a-4d6224a5b991",
       "name": "If default summary is available"
@@ -642,8 +642,8 @@
       "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
       "typeVersion": 1.2,
       "position": [
-        2080,
-        920
+        2120,
+        740
       ],
       "id": "a81f9bd8-99fa-4c56-b024-25e395851e93",
       "name": "Anthropic Chat Model",
@@ -672,7 +672,7 @@
       "typeVersion": 3.4,
       "position": [
         2380,
-        680
+        440
       ],
       "id": "d73a8a63-fc75-4f2b-9135-8bb4db9b271a",
       "name": "Return one of the summary"
@@ -692,8 +692,8 @@
       "type": "@n8n/n8n-nodes-langchain.chainLlm",
       "typeVersion": 1.5,
       "position": [
-        2020,
-        740
+        2040,
+        500
       ],
       "id": "454422ea-5f4d-426f-979d-86a07c3ba616",
       "name": "Create call summary"
@@ -1343,11 +1343,13 @@
   ],
   "pinData": {},
   "settings": {
-    "executionOrder": "v1"
+    "executionOrder": "v1",
+    "timezone": "America/Los_Angeles",
+    "callerPolicy": "workflowsFromSameOwner"
   },
   "staticData": null,
   "tags": [],
   "triggerCount": 0,
-  "updatedAt": "2025-01-03T19:40:26.887Z",
-  "versionId": "80687cf9-e726-4716-bbb3-519ce9928f7b"
+  "updatedAt": "2025-01-06T22:30:26.559Z",
+  "versionId": "0ffa9513-b843-4b2e-bd2a-267bcf930348"
 }
