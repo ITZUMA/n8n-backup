@@ -565,11 +565,13 @@
   ],
   "pinData": {},
   "settings": {
-    "executionOrder": "v1"
+    "executionOrder": "v1",
+    "timezone": "America/Los_Angeles",
+    "callerPolicy": "workflowsFromSameOwner"
   },
   "staticData": null,
   "tags": [],
   "triggerCount": 1,
-  "updatedAt": "2025-01-06T14:52:21.530Z",
-  "versionId": "3657248a-d406-47e5-a040-66d377f752f8"
+  "updatedAt": "2025-01-06T22:31:39.431Z",
+  "versionId": "5cfb4da1-9d18-4c34-b99d-ab15403f80ff"
 }
