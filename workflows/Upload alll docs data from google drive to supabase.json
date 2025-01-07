@@ -859,11 +859,13 @@
   ],
   "pinData": {},
   "settings": {
-    "executionOrder": "v1"
+    "executionOrder": "v1",
+    "timezone": "America/Los_Angeles",
+    "callerPolicy": "workflowsFromSameOwner"
   },
   "staticData": null,
   "tags": [],
   "triggerCount": 0,
-  "updatedAt": "2024-12-26T12:05:37.906Z",
-  "versionId": "5a56aadb-0286-47ae-99e8-a1151310f1b7"
+  "updatedAt": "2025-01-06T22:32:25.490Z",
+  "versionId": "5ec08e4b-9ed4-4473-b3c9-e3f77d884498"
 }
