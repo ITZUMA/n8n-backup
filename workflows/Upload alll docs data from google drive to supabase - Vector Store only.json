@@ -1341,11 +1341,13 @@
   ],
   "pinData": {},
   "settings": {
-    "executionOrder": "v1"
+    "executionOrder": "v1",
+    "timezone": "America/Los_Angeles",
+    "callerPolicy": "workflowsFromSameOwner"
   },
   "staticData": null,
   "tags": [],
   "triggerCount": 0,
-  "updatedAt": "2025-01-04T22:48:29.497Z",
-  "versionId": "0653ac73-ad61-4a28-b958-6d7110a42a00"
+  "updatedAt": "2025-01-06T22:31:56.953Z",
+  "versionId": "536c4245-551e-4023-b271-f00364cd29ff"
 }
