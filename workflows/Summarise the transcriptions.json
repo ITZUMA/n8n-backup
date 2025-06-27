@@ -167,6 +167,7 @@
   },
   "createdAt": "2024-12-09T10:04:52.551Z",
   "id": "h8bsd7dYznziFJgG",
+  "isArchived": false,
   "meta": null,
   "name": "Summarise the transcriptions",
   "nodes": [
