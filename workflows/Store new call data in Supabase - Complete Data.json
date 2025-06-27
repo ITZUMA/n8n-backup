@@ -239,6 +239,7 @@
   },
   "createdAt": "2025-01-06T21:43:04.829Z",
   "id": "Z8UQakVl3no90N6b",
+  "isArchived": false,
   "meta": null,
   "name": "Store new call data in Supabase - Complete Data",
   "nodes": [
@@ -1338,10 +1339,10 @@
   },
   "staticData": {
     "node:File Created": {
-      "lastTimeChecked": "2025-03-04T14:40:21Z"
+      "lastTimeChecked": "2025-06-27T01:52:44Z"
     },
     "node:File Updated": {
-      "lastTimeChecked": "2025-03-04T14:41:07Z"
+      "lastTimeChecked": "2025-06-27T01:52:45Z"
     }
   },
   "tags": [],
