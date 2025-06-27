@@ -70,6 +70,7 @@
   },
   "createdAt": "2024-12-09T10:51:29.745Z",
   "id": "5qWNKrVoQddqvVGA",
+  "isArchived": false,
   "meta": null,
   "name": "Calendar Agent",
   "nodes": [
