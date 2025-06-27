@@ -81,6 +81,7 @@
   },
   "createdAt": "2024-12-25T17:58:32.195Z",
   "id": "pRvRNJfjxij88CTS",
+  "isArchived": false,
   "meta": null,
   "name": "Chat bot for calls data - Vector Store",
   "nodes": [
@@ -273,7 +274,7 @@
   },
   "staticData": null,
   "tags": [],
-  "triggerCount": 2,
+  "triggerCount": 1,
   "updatedAt": "2025-01-06T14:59:46.290Z",
   "versionId": "34a2877c-e935-41aa-984d-7f7e78cd068d"
 }
