@@ -177,6 +177,7 @@
   },
   "createdAt": "2025-01-06T13:24:54.706Z",
   "id": "diM8NWL0cv7fStHZ",
+  "isArchived": false,
   "meta": null,
   "name": "n8n Backup",
   "nodes": [
