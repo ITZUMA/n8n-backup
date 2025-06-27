@@ -245,6 +245,7 @@
   },
   "createdAt": "2024-12-09T10:47:46.339Z",
   "id": "QvLdr1fanhZaOUuA",
+  "isArchived": false,
   "meta": null,
   "name": "Store calls data in Supabase",
   "nodes": [
@@ -874,10 +875,10 @@
   },
   "staticData": {
     "node:File Created": {
-      "lastTimeChecked": "2025-03-04T14:41:00Z"
+      "lastTimeChecked": "2025-06-27T01:52:43Z"
     },
     "node:File Updated": {
-      "lastTimeChecked": "2025-03-04T14:40:11Z"
+      "lastTimeChecked": "2025-06-27T01:52:43Z"
     }
   },
   "tags": [],
